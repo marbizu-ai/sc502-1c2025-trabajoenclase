@@ -41,3 +41,7 @@ body{
 .dark-mode .btn{
     color: white;
 }
+
+.dark-mode .btn-light{
+    color: black;
+}
