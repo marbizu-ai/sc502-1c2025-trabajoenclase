@@ -29,3 +29,19 @@ body{
     padding: 20px;
 }
 
+.dark-mode{
+    background-color: #212529;
+    color:white;
+}
+
+.dark-mode .table{
+    color:white;
+}
+
+.dark-mode .btn{
+    color: white;
+}
+
+.dark-mode .btn-light{
+    color: black;
+}
